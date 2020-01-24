@@ -1,2 +1,3 @@
 # hello-world
-Practicing again
+Practicing again.
+Hi, this is Pao and I am practicing coding again.
